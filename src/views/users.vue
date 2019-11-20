@@ -11,7 +11,7 @@
       <hr>
       <div>
         <input type="text" v-model="index">
-        <button @click="searchUser">Search user</button>
+        <button @click="searchUser">Search user test</button>
       </div>
   </div>
 </template>
